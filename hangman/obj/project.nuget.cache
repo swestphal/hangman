@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6nLV0LWdYxF3IztmkrUkVR2gGeLP51hg+Uo48un4oiS5ZbmTFky6QSZGhc3hIia9nShWjPaIimLXsMTFKtrTwA==",
+  "success": true,
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\coding\\c\\projects\\hangman\\hangman\\hangman.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simonewestphal\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\6.0.6\\microsoft.netcore.app.host.win-arm64.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
